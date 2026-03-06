@@ -6,7 +6,7 @@ class GitContributors < Formula
   homepage "https://github.com/basictofu/git-contributors"
   url "https://github.com/basictofu/git-contributors/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "c36077eabb92dfb621b287cf3d05ac46ef0d2cdd498c520fac922cba6e276cb5"
-  license "GPLv3"
+  license "GPL-3.0-or-later"
 
   depends_on "rust" => :build
 
