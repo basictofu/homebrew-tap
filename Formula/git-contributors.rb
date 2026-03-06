@@ -1,5 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
 class GitContributors < Formula
   desc "Show commit histograms in the terminal"
   homepage "https://github.com/basictofu/git-contributors"
